@@ -1,0 +1,3 @@
+var srcIndex = new Map(JSON.parse('[["proc_macro2",["",[],["detection.rs","extra.rs","fallback.rs","lib.rs","marker.rs","parse.rs","rcvec.rs","wrapper.rs"]]],["project",["",[],["block.rs","blockchain.rs","main.rs","network.rs"]]],["quote",["",[],["ext.rs","format.rs","ident_fragment.rs","lib.rs","runtime.rs","spanned.rs","to_tokens.rs"]]],["unicode_ident",["",[],["lib.rs","tables.rs"]]]]'));
+createSrcSidebar();
+//{"start":36,"fragment_lengths":[121,72,111,49]}
