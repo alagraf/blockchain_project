@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["CustomBehaviourEvent","NetworkMessage"],"fn":["broadcast_message","handle_event","handle_mdns","init_network","list_peers"],"struct":["CustomBehaviour"]};
